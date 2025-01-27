@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7d714f20-7bd1-47a5-a858-997c23eb8439" name="Changes" comment="Module_18_3" />
+    <list default="true" id="7d714f20-7bd1-47a5-a858-997c23eb8439" name="Changes" comment="Module_18_4">
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/task5/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/templates/fifth_task/registration_page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/urls.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,8 +19,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -92,13 +98,22 @@
       <option name="project" value="LOCAL" />
       <updated>1737901002568</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Module_18_4">
+      <option name="closed" value="true" />
+      <created>1737902735733</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1737902735733</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Module_18_1" />
     <MESSAGE value="Module_18_2" />
     <MESSAGE value="Module_18_3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Module_18_3" />
+    <MESSAGE value="Module_18_4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Module_18_4" />
   </component>
 </project>
